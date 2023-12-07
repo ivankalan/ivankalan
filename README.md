@@ -5,7 +5,7 @@ I'm Ivanka, and I'm DevOps Engineer with expertise in automating and monitoring 
 - 💻 I’m currently working on Bank BTPN as a DevOps Engineer
 - 📖 I’m currently learning NodeJs, Go, and other tools
 - 📫 You can reach me at:
-  - Website: [https://www.ivankalan.my.id/helo](https://www.ivankalan.my.id/)
+  - Website: [https://ivankalan.my.id (under maintenance)](https://www.ivankalan.my.id/)
   - Instagram: <a href="https://instagram.com/ivankalan_">@ivankalan_</a>
   - Linkedln: <a href="https://www.linkedin.com/in/ivankalan/">Ivanka Alan</a>
   - Email: <a href="mailto:helloivankalan@gmail.com">helloivankalan@gmail.com</a>
