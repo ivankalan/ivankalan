@@ -2,7 +2,7 @@
 
 I'm Ivanka, and I'm DevOps Engineer with expertise in automating and monitoring software delivery workflows, including continuous integration (CI), continuous delivery (CD), and infrastructure as code (IaC). Proficient in using a variety of DevOps tools and technologies.
 
-- 💻 I’m currently working on Bank BTPN as a DevOps Engineer
+- 💻 DevOps Engineer
 - 📖 I’m currently learning NodeJs, Go, and other tools
 - 📫 You can reach me at:
   - Website: [https://ivankalan.my.id (under maintenance)](https://www.ivankalan.my.id/)
