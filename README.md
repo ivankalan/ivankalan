@@ -5,6 +5,6 @@ I'm Ivanka, and I'm DevOps Engineer with expertise in automating and monitoring 
 - 💻 DevOps Engineer
 - 📖 I’m currently learning NodeJs, Go, and other tools
 - 📫 You can reach me at:
-  - Instagram: <a href="https://instagram.com/ivankalan_">@ivankalan_</a>
+  - Instagram: <a href="https://instagram.com/ivankalanm">@ivankalanm</a>
   - Linkedln: <a href="https://www.linkedin.com/in/ivankalan/">Ivanka Alan</a>
   - Email: <a href="mailto:helloivankalan@gmail.com">helloivankalan@gmail.com</a>
